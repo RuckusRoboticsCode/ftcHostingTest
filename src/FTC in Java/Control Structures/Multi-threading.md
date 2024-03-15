@@ -1,0 +1,3 @@
+# Multi-threading
+
+While it may seem like the most obvious solution to doing multiple things at the same time, there are often easier (and maybe better) solutions like asynchronous programming and state machines. While multi-threading is no inherently bad, it is really easy to implement it badly. I don't know enough about multi-threading to teach how to use it, so you will have to research this on your own.

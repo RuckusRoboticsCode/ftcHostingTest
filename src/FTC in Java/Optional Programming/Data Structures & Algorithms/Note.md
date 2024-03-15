@@ -1,0 +1,1 @@
+It might not be worth doing this. Also although I know it, I'm not at a good enough level to be a good teacher for it.
